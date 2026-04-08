@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+data/
+*.pth
+greek_train/
+my_digits/
+my_greek/
+test_4digits.py
+test_6digits.py
+generate_digits2.py
+crop_digits.py
