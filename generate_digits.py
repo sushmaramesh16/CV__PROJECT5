@@ -1,4 +1,7 @@
-from PIL import Image, ImageDraw, ImageFont
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Helper: Generate digit test images using Arial font
 import os
 
 os.makedirs('my_digits', exist_ok=True)

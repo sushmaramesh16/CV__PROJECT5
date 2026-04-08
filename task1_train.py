@@ -1,4 +1,7 @@
-# Sushma Ramesh - CS 5330 Project 5
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Task 1: Build, train and save a CNN for MNIST digit recognition
 # Task 1: Build, train, and save a CNN for MNIST digit recognition
 
 # import statements

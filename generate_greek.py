@@ -1,4 +1,7 @@
-# Generate alpha, beta, gamma test images using matplotlib
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Helper: Generate Greek letter test images using matplotlib
 import matplotlib.pyplot as plt
 import matplotlib
 import os

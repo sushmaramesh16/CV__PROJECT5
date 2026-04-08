@@ -1,4 +1,7 @@
-# Sushma Ramesh - CS 5330 Project 5
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Task 2: Examine the network - analyze filters and their effects
 # Task 2: Examine the network - analyze filters and their effects
 
 # import statements

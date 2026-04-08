@@ -1,4 +1,7 @@
-# Sushma Ramesh - CS 5330 Project 5
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Task 3: Transfer learning on Greek letters
 # Task 3: Transfer Learning on Greek Letters
 
 # import statements

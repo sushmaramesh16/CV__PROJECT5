@@ -1,4 +1,7 @@
-# Sushma Ramesh - CS 5330 Project 5
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Task 1E: Read network and run on first 10 test examples
 # Task 1E: Read network and run on first 10 test examples
 
 # import statements

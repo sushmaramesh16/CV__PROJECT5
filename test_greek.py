@@ -1,4 +1,7 @@
-# Sushma Ramesh - CS 5330 Project 5
+# Sushma Ramesh & Dina Barua
+# CS 5330 - Pattern Recognition and Computer Vision
+# Project 5: Recognition using Deep Networks
+# Task 3: Test greek model on custom alpha, beta, gamma images
 # Task 3: Test greek model on custom alpha, beta, gamma images
 # Generates multiple examples per letter with varied sizes and tests them
 
