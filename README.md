@@ -57,6 +57,15 @@ python3 task2_examine.py
 # Task 3: Transfer learning on Greek letters
 python3 task3_greek.py
 python3 test_greek.py
+
+# Task 4: Train Transformer network on MNIST
+python3 task4_transformer.py
+
+# Task 5: Run hyperparameter experiment
+python3 task5_experiment.py
+
+# Extension: Analyze pretrained ResNet18
+python3 extension_pretrained.py
 ```
 
 ---
